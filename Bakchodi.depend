@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1413273461 source:c:\users\kanishk\desktop\graphics\bakchodi\main.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<fstream>
+	<iostream>
+	<vector>
+	"controls.h"
+	"display.h"
+	"fonts.h"
+	"start_screen.h"
+
+1412492581 c:\users\kanishk\desktop\graphics\bakchodi\controls.h
+
+1413197061 source:c:\users\kanishk\desktop\graphics\bakchodi\controls.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"main.h"
+	"display.h"
+	"fonts.h"
+	"start_screen.h"
+
+1413197260 source:c:\users\kanishk\desktop\graphics\bakchodi\display.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<fstream>
+	<iostream>
+	<vector>
+	"controls.h"
+	"main.h"
+	"fonts.h"
+	"start_screen.h"
+
+1413193604 c:\users\kanishk\desktop\graphics\bakchodi\display.h
+
+1413174792 c:\users\kanishk\desktop\graphics\bakchodi\main.h
+
+1411838639 c:\users\kanishk\desktop\graphics\bakchodi\fonts.h
+
+1412515143 source:c:\users\kanishk\desktop\graphics\bakchodi\fonts.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"main.h"
+	"display.h"
+	"controls.h"
+	"start_screen.h"
+
+1411992264 c:\users\kanishk\desktop\graphics\bakchodi\start_screen.h
+
+1412521170 source:c:\users\kanishk\desktop\graphics\bakchodi\start_screen.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"controls.h"
+	"main.h"
+	"fonts.h"
+	"display.h"
+
+1414609334 source:c:\users\anubhavmagic\documents\cs360\bakchodi\controls.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<C:\Users\anubhavmagic\Documents\cs360\Bakchodi\lib3ds\src\lib3ds.h>
+	"main.h"
+	"display.h"
+	"fonts.h"
+	"start_screen.h"
+	"plane.h"
+
+1413285783 c:\users\anubhavmagic\documents\cs360\bakchodi\main.h
+
+1413285860 c:\users\anubhavmagic\documents\cs360\bakchodi\display.h
+
+1413285789 c:\users\anubhavmagic\documents\cs360\bakchodi\fonts.h
+
+1413285784 c:\users\anubhavmagic\documents\cs360\bakchodi\start_screen.h
+
+1414608257 source:c:\users\anubhavmagic\documents\cs360\bakchodi\display.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<C:\Users\anubhavmagic\Documents\cs360\Bakchodi\lib3ds\src\lib3ds.h>
+	<fstream>
+	<iostream>
+	<vector>
+	"controls.h"
+	"main.h"
+	"fonts.h"
+	"start_screen.h"
+	"plane.h"
+
+1413285785 c:\users\anubhavmagic\documents\cs360\bakchodi\controls.h
+
+1413296329 source:c:\users\anubhavmagic\documents\cs360\bakchodi\fonts.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"main.h"
+	"display.h"
+	"controls.h"
+	"start_screen.h"
+	"plane.h"
+
+1414584556 source:c:\users\anubhavmagic\documents\cs360\bakchodi\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<C:\Users\anubhavmagic\Documents\cs360\Bakchodi\lib3ds\src\lib3ds.h>
+	<fstream>
+	<iostream>
+	<vector>
+	"controls.h"
+	"display.h"
+	"fonts.h"
+	"start_screen.h"
+	"plane.h"
+
+1413296328 source:c:\users\anubhavmagic\documents\cs360\bakchodi\start_screen.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"controls.h"
+	"main.h"
+	"fonts.h"
+	"display.h"
+	"plane.h"
+
+1414607646 source:c:\users\anubhavmagic\documents\cs360\bakchodi\plane.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<C:\Program Files (x86)\CodeBlocks\MinGW\include\SOIL\src\SOIL.h>
+	<C:\Users\anubhavmagic\Documents\cs360\Bakchodi\lib3ds\src\lib3ds.h>
+	"main.h"
+	"display.h"
+	"fonts.h"
+	"start_screen.h"
+
+1414606560 c:\users\anubhavmagic\documents\cs360\bakchodi\plane.h
+
